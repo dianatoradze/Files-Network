@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Files-Network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/biggest-folder-finder" vcs="Git" />
   </component>
 </project>
